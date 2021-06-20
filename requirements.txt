@@ -1,0 +1,9 @@
+asgiref
+sqlalchemy
+aiogram~=2.12
+aiohttp>=3.6.2
+environs~=8.0.0
+Django>=3.2
+psycopg2-binary
+jsonfield
+qiwipy~=2.1.6
